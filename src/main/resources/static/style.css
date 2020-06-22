@@ -1,0 +1,53 @@
+h1, p {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+Label {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+span {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+a {
+    font-size: 22px;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+    text-align: left;
+}
+
+input[type=text], input[type=password]{
+    display: inline-block;
+    width: 200px;
+}
+
+input[type=radio] {
+    margin-left: 45px;
+}
+
+span {
+    display: inline-block;
+    width: 200px;
+    margin: 5px;
+    text-align: left;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+body {
+    background-color: lightgrey;
+    background-image: url(https://sewausa.org/resources/Sewa%20USA%20Images/DIY%20Campaigns/Online-registration-for-CS-Foundation-dec-2017-course.jpg);
+    
+}
